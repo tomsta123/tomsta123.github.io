@@ -9,6 +9,10 @@ body {
   line-height: 1.5;
   color: #606c71; }
 
+.divide {
+ display: flex; 
+}
+
 a {
   color: #1e6bb8;
   text-decoration: none; }
@@ -238,6 +242,9 @@ a {
   color: #819198;
   max-width = 25%;
   min-width = 140px;
+  flex: 1;
+  
+}
   
 @media screen and (min-width: 64em) {
   .site-footer {
