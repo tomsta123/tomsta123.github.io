@@ -11,6 +11,8 @@ body {
 
 .divide {
  display: flex; 
+ min-width 20%;
+ max-width 40%;
 }
 
 a {
