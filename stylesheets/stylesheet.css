@@ -241,8 +241,8 @@ a {
 
 }
 
-.Navigator {
-  color: #FFEE00;
+.site-Navigator {
+  background-color: #FFEE00;
   max-width = 45%;
   min-width = 10%;
   flex: 1;
