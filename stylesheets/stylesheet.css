@@ -11,8 +11,8 @@ body {
 
 .divide {
  display: flex; 
- min-width 20%;
- max-width 40%;
+ min-width: 10%;
+ max-width: 45%;
  padding: 5rem;
 }
 
@@ -243,8 +243,8 @@ a {
 
 .Navigator {
   background-color: #FFEE00;
-  max-width = 45%;
-  min-width = 10%;
+  max-width: 45%;
+  min-width: 140px;
   flex: 1;
   
 }
