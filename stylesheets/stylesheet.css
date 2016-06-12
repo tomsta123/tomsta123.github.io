@@ -10,7 +10,6 @@ body {
   color: #606c71; }
 
 .divide {
- display: flex; 
  min-width: 10%;
  max-width: 45%;
  padding: 5rem;
